@@ -125,6 +125,7 @@
         "unknown": "unknown"
     },
     "distro": {
+        "monarch": "941215835769417738",
         "elementary": "877994542912114718",
         "ubuntu": "740434138036699178",
         "opensuseleap": "740156532137787433",
